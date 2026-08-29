@@ -24,6 +24,8 @@ dsh plugin --profile web add dshmarket
 ## Contents
 
 <!-- BEGIN TOC -->
+- [dsh-speech-input](https://github.com/liznee/dsh-speech-input) — Native microphone button for the DeepSeek Harness composer: dictate into the draft, 5 s silence auto-stop, capsule listening UI with clickable preview; Chinese and English.
+- [dsh-file-resource](https://github.com/liznee/dsh-file-resource) — Local file input for DSH Web: native images plus session-scoped local parsing of PDF/Office/EPUB/text, a bounded read tool, @fileName mentions in sent messages and a right-side split preview.
 - [Plugins](#plugins)
   - [UI Enhancements](#ui-enhancements)
   - [Usage & Billing](#usage--billing)
