@@ -348,6 +348,7 @@ dsh plugin --profile web add dshmarket
 - [WNJXYK/dsh-codex-oauth](https://github.com/WNJXYK/dsh-codex-oauth) - Use a ChatGPT/Codex subscription in DeepSeek Harness with GPT models, image generation, web search, subscription quota reporting, model and feature controls, and browser or device-code OAuth sign-in.
 - [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription) - Built-in ChatGPT OAuth provider for Codex models, selectable subscription web search, backend quota for standard Codex and Spark, and a DSH settings UI; no API key or Codex CLI required.
 - [wss534857356/dsh-plugin-codex](https://github.com/wss534857356/dsh-plugin-codex) - Codex App Server model provider using a local Codex login, with session reuse, Harness tool bridging, native action traces, and durable generated-image projection.
+- [xingzhen199186/dsh-advisor-group](https://github.com/xingzhen199186/dsh-advisor-group) - Consult multiple expert advisor models in a retro CRT chat-group card: one ask_advisors call runs an auto-deepen pipeline (driver deep-question, advisor relay, synthesis conclusion) with SSE streaming, 26 provider presets, a configurable daily quota, stop/resume, and optional advisor tool calling.
 
 ### Sessions & Messages
 
