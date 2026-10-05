@@ -1,0 +1,6 @@
+url: https://github.com/xingzhen199186/dsh-jev-ultrafast
+name: xingzhen199186/dsh-jev-ultrafast
+category: tools
+description:
+  en: "Drive a browser from one natural-language goal: a decision service picks the next operation and target from an indexed element table, so a DSH session spends one tool call instead of one turn per click."
+  zh: "用一句自然语言目标驱动真实浏览器办事：每一步「做什么操作、对哪个元素」由决策服务从带编号的元素表里选定，一趟多步任务只占一次工具调用。"
